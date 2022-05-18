@@ -5,23 +5,14 @@
     </a>
     </br>
     <a href="https://circleci.com/gh/huggingface/transformers">
-       <img alt="Pytorch" src="https://img.shields.io/badge/Main modules-pytorch-green.svg">
+       <img alt="Pytorch" src="https://img.shields.io/badge/Books-red.svg">
     </a>
-    <a href="https://circleci.com/gh/huggingface/transformers">
-       <img alt="Pytorch" src="https://img.shields.io/badge/ -cv2-green.svg">
-    </a>
-    <a href="https://circleci.com/gh/huggingface/transformers">
-       <img alt="Pytorch" src="https://img.shields.io/badge/ -matplotlib-green.svg">
-    </a>
-    <a href="https://circleci.com/gh/huggingface/transformers">
-       <img alt="Pytorch" src="https://img.shields.io/badge/ -skimage-green.svg">
-    </a>
-    <a href="https://circleci.com/gh/huggingface/transformers">
-       <img alt="Pytorch" src="https://img.shields.io/badge/ -numpy-green.svg">
-    </a>
-    <a href="https://circleci.com/gh/huggingface/transformers">
-       <img alt="Pytorch" src="https://img.shields.io/badge/ -PIL-green.svg">
-    </a>
+   <a href="https://circleci.com/gh/huggingface/transformers">
+       <img alt="Pytorch" src="https://img.shields.io/badge/Youtube-playlists-green.svg">
+    </a>    
+     <a href="https://circleci.com/gh/huggingface/transformers">
+       <img alt="Pytorch" src="https://img.shields.io/badge/git-repositories-blue.svg">
+    </a>    
 </p>
 
 # Books
@@ -69,6 +60,9 @@ Deep Learning with PyTorch<br>
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)<br>
 (freely available)<br><br>
 
+[Earth Observation Data Cubes](https://www.opendatacube.org/_files/ugd/f9d4ea_9357a7188c64483fbbce9378a23aa1e9.pdf)<br>
+(freely available)<br><br>
+
 # Youtube
 [Deep Learning Lecture - Frank Noe (Berlin University)](https://www.youtube.com/playlist?list=PLqPI2gxxYgMKN5AVcTajQ79BTV4BiFN_0)<br>
 
@@ -80,6 +74,8 @@ Deep Learning with PyTorch<br>
 
 [Neural networks class - Hugo Larochelle (Université de Sherbrooke)](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)<br>
 # Other Resources
+
+[Vision for agriculture](https://www.agriculture-vision.com/)<br>
 
 
 
