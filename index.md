@@ -63,6 +63,8 @@ Deep Learning with PyTorch<br>
 [Earth Observation Data Cubes](https://www.opendatacube.org/_files/ugd/f9d4ea_9357a7188c64483fbbce9378a23aa1e9.pdf)<br>
 (freely available)<br><br>
 
+[My data science notes](https://www.overleaf.com/read/pkqvmdkywmhn)<br><br>
+
 # Youtube
 [Deep Learning Lecture - Frank Noe (Berlin University)](https://www.youtube.com/playlist?list=PLqPI2gxxYgMKN5AVcTajQ79BTV4BiFN_0)<br>
 
