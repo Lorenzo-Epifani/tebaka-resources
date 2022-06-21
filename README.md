@@ -80,6 +80,14 @@ Deep Learning with PyTorch<br>
 [Essence of linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)<br>
 
 [Neural networks class - Hugo Larochelle (Université de Sherbrooke)](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)<br>
+
+# Datasets
+[Sentinel-2 Image Time Series for Crop Mapping (68GB)](https://www.kaggle.com/datasets/ignazio/sentinel2-crop-mapping) <br>
+[SenseFLy education dataset(s)](https://www.sensefly.com/education/datasets/) <br>
+[Agriculture for Vision, dataset 2021](https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021)<br>
+[Agriculture for Vision, dataset 2022](https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/agriculture-vision-challenge-2022)<br>
+
+
 # Other Resources
 
 [Vision for agriculture](https://www.agriculture-vision.com/)<br>
