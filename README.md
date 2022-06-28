@@ -91,6 +91,8 @@ Deep Learning with PyTorch<br>
 # Other Resources
 
 [Vision for agriculture](https://www.agriculture-vision.com/)<br>
+[Earth Observation Using Python](https://github.com/resmaili/Earth-Obs-Py)<br>
+[SentinelSat API reference](https://sentinelsat.readthedocs.io/en/stable/api_reference.html)
 
 
 
