@@ -80,7 +80,7 @@ Deep Learning with PyTorch<br>
 [Essence of linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)<br>
 
 [Neural networks class - Hugo Larochelle (Université de Sherbrooke)](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)<br>
-
+[DigitalSreeni - various python/deep learning playlists](https://www.youtube.com/c/DigitalSreeni/playlists)<br>
 # Datasets
 [Sentinel-2 Image Time Series for Crop Mapping (68GB)](https://www.kaggle.com/datasets/ignazio/sentinel2-crop-mapping) <br>
 [SenseFLy education dataset(s)](https://www.sensefly.com/education/datasets/) <br>
