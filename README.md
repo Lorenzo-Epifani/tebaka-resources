@@ -85,7 +85,7 @@ Deep Learning with PyTorch<br>
 
 [AladdinPersson - paper explanations and python tutorials](https://www.youtube.com/c/AladdinPersson/playlists)<br>
 
-[Yannic Kilcher - paper explanations] (https://www.youtube.com/c/YannicKilcher/playlists)<br>
+[Yannic Kilcher - paper explanations](https://www.youtube.com/c/YannicKilcher/playlists)<br>
 # Datasets
 [Sentinel-2 Image Time Series for Crop Mapping (68GB)](https://www.kaggle.com/datasets/ignazio/sentinel2-crop-mapping) <br>
 [SenseFLy education dataset(s)](https://www.sensefly.com/education/datasets/) <br>
