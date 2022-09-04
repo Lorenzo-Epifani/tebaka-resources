@@ -70,7 +70,7 @@ Deep Learning with PyTorch<br>
 
 
 
-# Youtube
+# Youtube / Video Lessons / Lectures
 [Deep Learning Lecture - Frank Noe (Berlin University)](https://www.youtube.com/playlist?list=PLqPI2gxxYgMKN5AVcTajQ79BTV4BiFN_0)<br>
 
 [My public playlist](https://youtube.com/playlist?list=PL53Qfr4B6we6l-Kw_--GOGj3B9SlgN1g7)<br>
@@ -86,6 +86,9 @@ Deep Learning with PyTorch<br>
 [AladdinPersson - paper explanations and python tutorials](https://www.youtube.com/c/AladdinPersson/playlists)<br>
 
 [Yannic Kilcher - paper explanations](https://www.youtube.com/c/YannicKilcher/playlists)<br>
+
+[Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)<br>
+
 # Datasets
 [Sentinel-2 Image Time Series for Crop Mapping (68GB)](https://www.kaggle.com/datasets/ignazio/sentinel2-crop-mapping) <br>
 [SenseFLy education dataset(s)](https://www.sensefly.com/education/datasets/) <br>
