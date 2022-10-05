@@ -70,24 +70,31 @@ Deep Learning with PyTorch<br>
 
 
 
-# Youtube / Video Lessons / Lectures
+# Videos
+## Lectures
+
 [Deep Learning Lecture - Frank Noe (Berlin University)](https://www.youtube.com/playlist?list=PLqPI2gxxYgMKN5AVcTajQ79BTV4BiFN_0)<br>
 
-[My public playlist](https://youtube.com/playlist?list=PL53Qfr4B6we6l-Kw_--GOGj3B9SlgN1g7)<br>
+[Neural networks class - Hugo Larochelle (Université de Sherbrooke)](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)<br>
+
+[Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)<br>
+
+## Series
 
 [Python Pandas](https://www.youtube.com/playlist?list=PL53Qfr4B6we6l-Kw_--GOGj3B9SlgN1g7)<br>
 
 [Essence of linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)<br>
 
-[Neural networks class - Hugo Larochelle (Université de Sherbrooke)](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)<br>
+[My public playlist](https://youtube.com/playlist?list=PL53Qfr4B6we6l-Kw_--GOGj3B9SlgN1g7)<br>
 
 [DigitalSreeni - various python/deep learning playlists](https://www.youtube.com/c/DigitalSreeni/playlists)<br>
+
+## Papers explanations/misc
 
 [AladdinPersson - paper explanations and python tutorials](https://www.youtube.com/c/AladdinPersson/playlists)<br>
 
 [Yannic Kilcher - paper explanations](https://www.youtube.com/c/YannicKilcher/playlists)<br>
 
-[Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)<br>
 
 # Datasets
 [Sentinel-2 Image Time Series for Crop Mapping (68GB)](https://www.kaggle.com/datasets/ignazio/sentinel2-crop-mapping) <br>
