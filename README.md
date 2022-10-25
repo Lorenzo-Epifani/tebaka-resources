@@ -101,6 +101,7 @@ Deep Learning with PyTorch<br>
 [SenseFLy education dataset(s)](https://www.sensefly.com/education/datasets/) <br>
 [Agriculture for Vision, dataset 2021](https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021)<br>
 [Agriculture for Vision, dataset 2022](https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/agriculture-vision-challenge-2022)<br>
+[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)<br>
 
 
 # Other Resources
