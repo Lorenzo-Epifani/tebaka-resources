@@ -80,6 +80,7 @@ Deep Learning with PyTorch<br>
 [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)<br>
 
 ## Series
+[Statquest - Various statistics and classical learning content](https://www.youtube.com/c/joshstarmer/playlists)
 
 [Python Pandas](https://www.youtube.com/playlist?list=PL53Qfr4B6we6l-Kw_--GOGj3B9SlgN1g7)<br>
 
@@ -102,7 +103,7 @@ Deep Learning with PyTorch<br>
 [Agriculture for Vision, dataset 2021](https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021)<br>
 [Agriculture for Vision, dataset 2022](https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022/agriculture-vision-challenge-2022)<br>
 [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)<br>
-
+[COCO dataset](https://cocodataset.org/#home)<br>
 
 # Other Resources
 
