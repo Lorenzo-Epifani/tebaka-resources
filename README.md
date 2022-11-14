@@ -78,6 +78,7 @@ Deep Learning with PyTorch<br>
 [Neural networks class - Hugo Larochelle (Université de Sherbrooke)](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)<br>
 
 [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)<br>
+[Yann LeCun’s Deep Learning Course at NYU](https://atcold.github.io/pytorch-Deep-Learning/)<br>
 
 ## Series
 [Statquest - Various statistics and classical learning content](https://www.youtube.com/c/joshstarmer/playlists)
